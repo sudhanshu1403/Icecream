@@ -1,2 +1,2 @@
 # Icecream-
-icecream demo
+Icecream ordering website.
